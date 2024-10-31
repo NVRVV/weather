@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Recursive", sans-serif;
+}
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  background: url(assets/mountain.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
